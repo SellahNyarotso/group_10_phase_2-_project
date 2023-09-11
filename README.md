@@ -1,5 +1,5 @@
 # group_10_phase_2-_project
-EXPLORATORY DATA ANALYSIS FOR HOME OWNERS IN REAL ESTATE BUSINESS
+**EXPLORATORY DATA ANALYSIS FOR HOME OWNERS IN REAL ESTATE BUSINESS**
 
 
 
@@ -12,7 +12,8 @@ EXPLORATORY DATA ANALYSIS FOR HOME OWNERS IN REAL ESTATE BUSINESS
 The home owners wants advice about how home renovations might increase value of their homes and by what amounts,
 All analysis were conducted from the available data and insight are here-in shared for an informed decision.
 
-Project Details.
+**Project Details**.
+
 The aim for this project was to help the home owners perform better as they renovate their homes.
 The following data was used for analysis
 KC_house data
@@ -23,7 +24,7 @@ KC_house data
 3.Determine whether real estate owners put emphasis on the maintenance of the houses.
 4.Investigate whether the Construction and design of the house have effect on the pricing of the House.
 
-Conclusion.
+**Conclusion**.
 Based on the findings, the following was concluded;
 a)The house age versus price shows that house prices decrease with with an increase in age apart from some few old houses that had high prices.
 
@@ -40,7 +41,8 @@ Also,for the houses with basement,this can be converted in a creative way to hav
 
 d)The more spacious the sqft_living is the higher the price
 
-BUSINESS RECOMMENDATIONS
+**BUSINESS RECOMMENDATIONS**
+
 After the above Conclusions,the following can be recommended to the business:
 1.The number of bathrooms is relevant while setting price of the houses
 2.The space of the living rooms is a determinant and should be considered
