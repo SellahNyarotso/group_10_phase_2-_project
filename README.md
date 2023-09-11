@@ -34,7 +34,7 @@ a)The house age versus price shows that house prices decrease with with an incre
 
 b)From the analysis we can tell that most of the houses in this project are average in condition, few are in very good condition, some are in good condition and very few feature in poor and fair conditions.
 
-![House_condition]([tps:ht//github.com/SellahNyarotso/group_10_phase_2-_project/blob/master/Capture%203.PNG](https://github.com/SellahNyarotso/group_10_phase_2-_project/blob/master/image9.png))
+![House_condition]([https://github.com/SellahNyarotso/group_10_phase_2-_project/blob/master/Capture%203.PNG](https://github.com/SellahNyarotso/group_10_phase_2-_project/blob/master/image9.png))
 
 
 c)The number of bedrooms is affecting the pricing of the houses,therefore,while renovating houses with less than 3 bedrooms,it should have standards of those with more than 3 bedrooms in-terms of conditions and grade
