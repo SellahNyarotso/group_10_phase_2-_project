@@ -26,6 +26,7 @@ KC_house data
 
 **Conclusion**.
 Based on the findings, the following was concluded;
+
 a)The house age versus price shows that house prices decrease with with an increase in age apart from some few old houses that had high prices.
 
 ![House_Age](https://github.com/SellahNyarotso/group_10_phase_2-_project/blob/master/Capture%204.PNG)
@@ -44,7 +45,10 @@ d)The more spacious the sqft_living is the higher the price
 **BUSINESS RECOMMENDATIONS**
 
 After the above Conclusions,the following can be recommended to the business:
+
 1.The number of bathrooms is relevant while setting price of the houses
+
 2.The space of the living rooms is a determinant and should be considered
+
 3.The number of floors in this dataset seems to be increasing the price of the houses upto a 2 floors which then starts declining at 3 floors and peaks again at 3.5 floors.
 The highest priced houses have 2.5 floors
