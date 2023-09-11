@@ -21,11 +21,14 @@ KC_house data
 Conclusion.
 Based on the findings, the following was concluded;
 a)The house age versus price shows that house prices decrease with with an increase in age apart from some few old houses that had high prices.
-![House_Age](untitled:Untitled-1.ipynb/image.png?jupyter-notebook)
+
+![House_Age](https://github.com/SellahNyarotso/group_10_phase_2-_project/blob/master/Capture%204.PNG)
+
 
 b)From the analysis we can tell that most of the houses in this project are average in condition, few are in very good condition, some are in good condition and very few feature in poor and fair conditions.
 
-![Condition_house](untitled:Untitled-1.ipynb/image.png?jupyter-notebook)
+![Sqft_living](https://github.com/SellahNyarotso/group_10_phase_2-_project/blob/master/Capture%203.PNG)
+
 
 c)The number of bedrooms is affecting the pricing of the houses,therefore,while renovating houses with less than 3 bedrooms,it should have standards of those with more than 3 bedrooms in-terms of conditions and grade
 Also,for the houses with basement,this can be converted in a creative way to have spacious rooms and especially for the houses with 1 and 2 bedrooms.
