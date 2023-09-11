@@ -1,6 +1,8 @@
 # group_10_phase_2-_project
 EXPLORATORY DATA ANALYSIS FOR HOME OWNERS IN REAL ESTATE BUSINESS
+
 ![House_picture](https://github.com/SellahNyarotso/group_10_phase_2-_project/blob/master/Capture%205.PNG)
+
 
 The home owners wants advice about how home renovations might increase value of their homes and by what amounts,
 All analysis were conducted from the available data and insight are here-in shared for an informed decision.
